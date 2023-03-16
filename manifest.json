@@ -1,0 +1,17 @@
+{
+"name": "Discord Web App",
+"description": "Just a discord web app",
+"version": "1.0.0",
+"manifest_version": 2,
+"icons": {
+"128": "discord-icon.png"
+},
+"app": {
+"urls": [
+"http://discord.com"
+],
+"launch": {
+"web_url": "http://discord.com"
+}
+}
+}
