@@ -8,4 +8,4 @@
 5. Go to Chrome://extensions (Chrome Only). Turn on "Developer Mode"
  5.1 Click the "Load Unpacked" and choose your Folder that has Manifest.json and icon.
   5.2 Go to launcher and click your app after it loaded in. It should do a redirect to your browser.
-Done!
+Done
